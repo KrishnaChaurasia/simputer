@@ -7,8 +7,6 @@ Contents
 1 What is Simputer
 2 How to run the program
 3 What 'Simputer' contains
-4 Contact address
-
 
 1)What is Simputer?
 ******************
