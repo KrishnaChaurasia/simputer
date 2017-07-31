@@ -1,0 +1,2 @@
+main: main.cpp ArithmeticOperations.c LinearAlgebraOperations.c Ordering.c RandomVariableGeneration.c ScientificOperations.c
+	g++ ArithmeticOperations.c LinearAlgebraOperations.c Ordering.c RandomVariableGeneration.c ScientificOperations.c main.cpp
